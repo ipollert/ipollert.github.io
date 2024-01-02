@@ -10,11 +10,9 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "CV/Research"
       icon: fa-file-pdf-o
       href: cv.html
-     - text: "Papers / Talks"
-      href: com.html
   #  - text: "Blog"
     #  icon: fa-rss
      # href: https://YOURGITHUB.github.io/blog/  
