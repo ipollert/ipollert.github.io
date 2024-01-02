@@ -1,7 +1,14 @@
 ---
 title: "About me"
 ---
+Stuff about me
 
-## Header
 
-Say more about you here.
+### Current work
+
+My Current Work
+
+
+### Hometown -- Education -- Research
+
+Background information/flavor text
