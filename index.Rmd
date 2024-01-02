@@ -1,15 +1,10 @@
----
-output: html_document
----
-```{js, echo = FALSE}
-document.title = "Isaac Pollert"
-```
+
 ---
 title: "Isaac Pollert Ph.D."
 ---
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("IsaacPollert.JPG")
+knitr::include_graphics("IsaacPollert.jpg")
 ```
 ## Bio
 
