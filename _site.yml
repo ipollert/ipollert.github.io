@@ -24,7 +24,7 @@ navbar:
       icon: fa-github
       href: https://github.com/ipollert    
     - icon: fa-twitter fa
-    href: https://twitter.com/ipollert
+      href: https://twitter.com/ipollert
 output:
   html_document:
     theme: cosmo
