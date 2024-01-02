@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "CV and Research"
 ---
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
@@ -7,3 +7,14 @@ title: "CV"
 ## Bio
 
 Isaac Pollert is a postdoctoral scholar at Penn State University. He specializes in state politics, policy diffusion, and survey research. He received his degree from the University of Illinois at Chicago, and his dissertation focuses on policy diffusion mechanisms and American election policy.
+
+### Working Projects
+
+fill in this stuff
+<br>
+
+
+
+### Teaching Interests
+
+Fill this in
