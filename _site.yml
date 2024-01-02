@@ -1,5 +1,5 @@
 name: "Isaac Pollert"                                 
-output_dir: "."
+output_dir: '.'
 navbar:
   title: "Isaac Pollert"                            
   type: inverse
