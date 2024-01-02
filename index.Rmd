@@ -3,7 +3,7 @@
 title: "Isaac Pollert Ph.D."
 ---
 
-```{r, out.width="100%", echo=FALSE}
+```{r, out.width="50%", echo=FALSE}
 knitr::include_graphics("IsaacPollert.jpg")
 ```
 ## Bio
