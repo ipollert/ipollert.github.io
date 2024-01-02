@@ -13,6 +13,8 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+     - text: "Papers / Talks"
+      href: com.html
   #  - text: "Blog"
     #  icon: fa-rss
      # href: https://YOURGITHUB.github.io/blog/  
@@ -22,7 +24,9 @@ navbar:
       href: mailto:imp5243@psu.edu                    
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/ipollert       
+      href: https://github.com/ipollert    
+    - icon: fa-twitter fa
+    href: https://twitter.com/ipollert
 output:
   html_document:
     theme: cosmo
