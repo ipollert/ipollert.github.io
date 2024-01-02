@@ -2,4 +2,8 @@
 title: "Isaac Pollert Ph.D."
 ---
 
-Under Consruction
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("cover.JPG")
+```
+
+BIO
