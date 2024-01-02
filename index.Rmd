@@ -8,4 +8,4 @@ knitr::include_graphics("IsaacPollert.jpg")
 ```
 ## Bio
 
-Isaac Pollert is a postdoctoral scholar at Penn State University. He specializes in state politics, policy diffusion, and survey research. He received his degree from the University of Illinois at Chicago, and his dissertation focuses on policy diffusion mechanisms and American election policy.
+Hello! I am a postdoctoral scholar at Penn State University. I specialize in state politics, policy diffusion, and survey research, and received my degree from the University of Illinois at Chicago. My dissertation focuses on policy diffusion mechanisms and American election policy.
